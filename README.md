@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://ram-kumar-portfolio.netlify.ap/)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://)
 <h1 align="center">Hi 👋, I'm Ram Kumar</h1>
 <h3 align="center">Full Stack Developer | Delivering end-to-end solutions.</h3>
 
@@ -8,7 +8,7 @@
 
 - 🌱 Currently exploring **AI and DevOps trends.**
 
-- 👨‍💻 Dive into my [Tech Portfolio](https://ram-kumar-portfolio.netlify.ap/).
+- 👨‍💻 Dive into my [Tech Portfolio](https://).
 
 - 💬 Ask me about **Spring Boot, React, and DevOps.**
 
