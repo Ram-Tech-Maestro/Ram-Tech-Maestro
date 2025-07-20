@@ -153,8 +153,8 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ram-tech-maestro&show_icons=true&locale=en&layout=compact" alt="ram-tech-maestro" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ram-tech-maestro&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ram-tech-maestro" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ram-tech-maestro&show_icons=true&locale=en" alt="ram-tech-maestro" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ram-tech-maestro&show_icons=true&locale=en&theme=tokyonight" alt="ram-tech-maestro" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ram-tech-maestro&" alt="ram-tech-maestro" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ram-tech-maestro&&theme=tokyonight" alt="ram-tech-maestro" /></p>
