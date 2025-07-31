@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ramtechmaestro@gmail.com**
 
-- ⚡ Fun fact **My code auto-shuts during demos.**
+- ⚡ Fun fact **My brain has more if-else than sleep cycles.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
